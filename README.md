@@ -1,0 +1,1 @@
+echo "# studdybuddyai" >> README.md
